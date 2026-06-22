@@ -1,4 +1,4 @@
-# IRBAL - Informativeness Ranking-Based Active Learning
+## IRBAL - Informativeness Ranking-Based Active Learning
 
 This repository contains the implementation of IRBAL used for NIDS alert classification on the NAD-CD dataset (https://github.com/ristov/nad-cd). The implementation requires Python scikit-learn, pandas, modAL-python, and catboost packages. To display all command line options and their descriptions, run:
 
