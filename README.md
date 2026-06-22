@@ -4,4 +4,4 @@ This repository contains the implementation of IRBAL used for NIDS alert classif
 
 python3 irbal.py -h
 
-Author: Risto Vaarandi (firstname d0t lastname at gmail d0t c0m)
+'''Author:''' Risto Vaarandi (firstname d0t lastname at gmail d0t c0m)
